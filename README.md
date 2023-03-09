@@ -1,8 +1,10 @@
 # Currency Validator Project
 
-_This project is a currency validator built with Next.js, React.js, Tailwind.css, and Axios. The purpose of this application is to allow users to enter a currency code (e.g. USD, EUR, GBP) and validate if it is a valid currency code or not._
+_Thttps://my-currency-validator.vercel.app/._
 
 [Link to Demo](https://my-currency-validator.vercel.app/)
+
+_The Exchange Money Project is a web-based application that allows users to convert currencies between four different currencies - PLN, EUR, UAH, and USD. The user can input the amount of money they want to exchange and select the currencies they want to convert from and to. The application then calculates the exchange rate and displays the converted amount to the user. The project is built using modern web technologies such as HTML, CSS, and JavaScript, and utilizes an external API to fetch the latest exchange rates. The project is hosted on Vercel and can be accessed at `https://my-currency-validator.vercel.app/`._
 
 Getting Started
 To get started with this project, you will need to clone this repository and install the necessary dependencies.
